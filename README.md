@@ -6,11 +6,11 @@ I have written simple codes, examples using algorithms, problems dealing with da
 If my code here is wrong or there is a better way, please share with me.
 Thank you.
 
-##INDEX
+## INDEX
 
-###General Problem Solving Examples
-###Algorithms Examples
-###Data Examples
-###Machine Learning Examples
+### General Problem Solving Examples
+### Algorithms Examples
+### Data Examples
+### Machine Learning Examples
   
 
