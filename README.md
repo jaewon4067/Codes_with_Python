@@ -1,3 +1,1 @@
-# Math_Box
-수학 계산을 위한 프로젝트
-리드미입니다.
+# MY CODING PROJECT USING PYTHON
