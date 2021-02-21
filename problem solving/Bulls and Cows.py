@@ -1,4 +1,5 @@
 """
+
 Bulls and cows
 
 -The computer randomly selects three different numbers between 0 and 9. (Ex, a computer can pick 593 or 184)
@@ -8,8 +9,8 @@ Bulls and cows
 -If you have digits from the number from the computer, but not on the right places, they are cows.
 -You have unlimited opportunities. It is recorded how many attempts you have made.
 -The game ends when 3 bulls.
-"""
 
+"""
 
 from random import randint
 
@@ -23,7 +24,6 @@ def generate_numbers():
             numbers.append(new_number)
 
     return numbers
-
 
 def take_guess():
     new_guess = []
@@ -39,7 +39,6 @@ def take_guess():
 
     return new_guess
 
-
 def get_score(guess, answer_list):
     strike_count = 0
     ball_count = 0
@@ -51,7 +50,6 @@ def get_score(guess, answer_list):
             ball_count += 1
 
     return strike_count, ball_count
-
 
 # The game starts from here.
 ANSWER = generate_numbers()
