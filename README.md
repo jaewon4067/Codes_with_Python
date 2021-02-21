@@ -18,7 +18,7 @@ Thank you.
 -
 ### Algorithms Examples
 ### Data Examples
-- [University room](https://github.com/jaewon4067/Codes_with_Python/blob/main/Data%20Examples/University%20lecture%20rooms.ipynb)
+- [University lecture rooms](https://github.com/jaewon4067/Codes_with_Python/blob/main/Data%20Examples/University%20lecture%20rooms.ipynb)
 ### Machine Learning Examples
   
 
