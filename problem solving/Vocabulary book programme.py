@@ -10,9 +10,7 @@ Once you enter 'q', the programme ends.
 """
 
 with open('vocabulary.txt', 'w', encoding="utf-8") as f:
-
     while True:
-
         eng_word = input("Enter the English word:")
         if eng_word == 'q':
             break
@@ -20,7 +18,6 @@ with open('vocabulary.txt', 'w', encoding="utf-8") as f:
         f.write(eng_word +": ")
         f.write(kor_word + "\n")
              
-
 """
 
 This time, I'm going to maek a programme that gives students a question with the words in this file.
@@ -44,7 +41,6 @@ with open('vocabulary.txt', 'r') as f:
             print("Correct!\n")
         else:
             print("Wrong, the correct answer should be {}.\n".format(english_word))
-            
             
 """
 
