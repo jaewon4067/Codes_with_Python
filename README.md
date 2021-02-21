@@ -10,8 +10,8 @@ Thank you.
 
 ### General Problem Solving Examples
 
-- [test](https://github.com/jaewon4067/Math_Box/blob/main/folder/hello)
-- 헬로우
+- [Bulls and Cows](https://github.com/jaewon4067/Math_Box/blob/main/folder/hello)
+- 
 ### Algorithms Examples
 ### Data Examples
 ### Machine Learning Examples
