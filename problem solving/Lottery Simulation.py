@@ -1,4 +1,5 @@
 """
+
 I'm going to create lottery simulation programme.
 The numbers are from 1 to 45. The computer randomly picks six regular numbers and one bonus number. 
 You choose six different numbers.
@@ -14,7 +15,6 @@ The winning amount is determined by the rules below.
 
 from random import randint
 
-
 def generate_numbers(n):
     numbers = [] 
 
@@ -22,18 +22,14 @@ def generate_numbers(n):
         new_number = randint(1, 45)
         if new_number not in numbers:
             numbers.append(new_number)
-
     return numbers
-
 
 def draw_winning_numbers():
     winning_numbers = generate_numbers(7)
     return sorted(winning_numbers[:6]) + winning_numbers[6:]
 
-
 def count_matching_numbers(numbers, winning_numbers):
     count = 0
-
     for num in numbers:
         if num in winning_numbers:
             count = count + 1
