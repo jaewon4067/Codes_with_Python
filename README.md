@@ -1,8 +1,8 @@
 # MY CODING PROJECT USING PYTHON
 
 Hello, this is like my own diary where I write down my Python codes that I have studied and solved.
-I started coding with Jave first, but I am now into Python. Most of the codes here are based on Python.
-I have written simple codes, examples using algorithms, problems dealing with data and problems using machine learning.
+Most of the codes here are written in Python.
+I have done simple calculation examples, examples using algorithms (such as Brute Force, Dynamic Programming and Divide and Conquer), problems dealing with data and problems using machine learning.
 If there is anything that I can improve my codes or there is a better way, please share with me.
 Thank you.
 
