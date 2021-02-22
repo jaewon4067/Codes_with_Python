@@ -19,6 +19,8 @@ Thank you.
 ### Algorithms Examples
 ### Data Examples
 - [University lecture rooms](https://github.com/jaewon4067/Codes_with_Python/blob/main/Data%20Examples/University%20lecture%20rooms.ipynb)
+- [Movie Rating Analysis](https://github.com/jaewon4067/Codes_with_Python/blob/main/Data%20Examples/Movie%20rating%20analysis.ipynb)
+- [Orange Bottle](https://github.com/jaewon4067/Codes_with_Python/blob/main/Data%20Examples/Orange%20Bottle.ipynb)
 ### Machine Learning Examples
   
 
