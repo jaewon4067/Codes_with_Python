@@ -17,7 +17,7 @@ Thank you.
 ### Algorithms Examples
 - [Binary Search using Recursion](https://github.com/jaewon4067/Codes_with_Python/blob/main/Algorithms%20Examples/Binary%20Search%20using%20Recursion.py)
 - [Tower of Hanoi](https://github.com/jaewon4067/Codes_with_Python/blob/main/Algorithms%20Examples/Tower%20of%20Hanoi.py)
-- [Baker Street (Brute Force)](https://github.com/jaewon4067/Codes_with_Python/new/main/Algorithms%20Examples)
+- [Baker Street (Brute Force)](https://github.com/jaewon4067/Codes_with_Python/blob/main/Algorithms%20Examples/Baker%20Street%20(Brute%20Force).py)
 ### Data Examples
 - [University lecture rooms](https://github.com/jaewon4067/Codes_with_Python/blob/main/Data%20Examples/University%20lecture%20rooms.ipynb)
 - [Movie Rating Analysis](https://github.com/jaewon4067/Codes_with_Python/blob/main/Data%20Examples/Movie%20rating%20analysis.ipynb)
