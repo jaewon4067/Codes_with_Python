@@ -46,8 +46,7 @@ print(find_same_number([5, 2, 3, 4, 1, 6, 7, 8, 9, 3]))
 
 If the length of input list is n, the complexity of this algorithm is O(n).
 
-I have made two restrictions to make this question a bit harder.
-
+I want to make this question a bit barder by adding two restrictions.
 Firstly, I want to use space complexity less than O(n), which means I cannot use dictionaries or lists.
 I also don't want to replace or modify elements in the list called 'some_list'.
 I'm going to solve the same question I did above with two restrictions.
