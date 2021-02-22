@@ -97,6 +97,7 @@ print(trapping_rain([0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]))
 
 Let's say the length of the input buildings n.
 The number of For Loops is proportional to n. The time complexity of the trapping_rain function is 3 * O(n), which is O(n). 
-Since we used two lists of lengths proportional to n, the space complexity becomes 2 * O(n),which is O(n).
+Since we used two lists proportional to n, the space complexity becomes 2 * O(n),which is O(n).
 
+By using two more lists, the the space complexity became O(n), whereas, the time complexity became O(n) from O(n^2). 
 """
