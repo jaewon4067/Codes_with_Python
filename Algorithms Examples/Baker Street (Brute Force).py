@@ -45,11 +45,58 @@ print(trapping_rain([0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]))
 
 """
 
-Let's say the length of the input builds n.
+Let's say the length of the input building n.
 First of all, the For Loop is proportional to n, which is O(n). 
 And the longest part of the loop is the max (buildings [:i]) or max (buildings [i:]). Let's check one of them.
 The worst case of buildings[:i] is O(n). The maximum value using a max function for the sliced list is also O(n). It's 2O(n), so it's O(n).
-
 Therefore, the time complexity of the trapping_rain function is O(n^2).
+
+There is a more efficient way to solve this question in terms of time copmlexity. 
+
+"""
+
+# We found the height of the tallest building on the left side and right side of the current index
+# These two steps took O(n) each. Can this part be more efficient?
+
+
+def trapping_rain(buildings):
+    # total rainwater
+    total_height = 0 
+    n = len(buildings)
+
+    # Create lists for the max value of left and right hand side. 
+    left_list = [0] * n
+    right_list = [0] * n
+
+    # Each index in the list, save the max value of the left hand side.
+    left_list[0] = buildings[0]
+    for i in range(1, n):
+        left_list[i] = max(left_list[i - 1], buildings[i])
+                
+    # Each index in the list, save the max value of the right hand side.
+    right_list[-1] = buildings[-1]
+    for i in range(n - 2, -1, -1):
+        right_list[i] = max(right_list[i + 1], buildings[i])
+
+    # From the saved values, calculate the total rainwater.
+    for i in range(n):
+        # The height of the rainwater of the current index.
+        upper_bound = min(right_list[i], left_list[i])
+        
+        # Calculate the rainwater in the current index.
+        # If upper_bound is not bigger than the height of the current building, the rainwater of current index is 0.
+        total_height += max(0, upper_bound - buildings[i])
+
+    return total_height
+
+#test
+print(trapping_rain([3, 0, 0, 2, 0, 4]))
+print(trapping_rain([0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]))
+
+"""
+
+Let's say the length of the input buildings n.
+The number of For Loops is proportional to n. The time complexity of the trapping_rain function is 3 * O(n), which is O(n). 
+Since we used two lists of lengths proportional to n, the space complexity becomes 2 * O(n),which is O(n).
 
 """
