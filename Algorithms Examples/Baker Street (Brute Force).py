@@ -46,13 +46,10 @@ print(trapping_rain([0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]))
 """
 
 Let's say the length of the input builds n.
-
 First of all, the For Loop is proportional to n, which is O(n). 
-
 And the longest part of the loop is the max (buildings [:i]) or max (buildings [i:]). Let's check one of them.
-
 The worst case of buildings[:i] is O(n). The maximum value using a max function for the sliced list is also O(n). It's 2O(n), so it's O(n).
 
-The time complexity of the trapping_rain function is O(n^2).
+Therefore, the time complexity of the trapping_rain function is O(n^2).
 
 """
