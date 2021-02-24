@@ -36,5 +36,6 @@ Thank you.
 - [Regularization L1 - Lasso](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/Regularization%20L1%20-%20Lasso%20.ipynb)
 - [Regularization L2 - Ridge](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/Regularization%20L2%20-%20Ridge%20.ipynb)
 - [k-layer cross-validation](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/k-layer%20cross-validation.ipynb)
+- [Grid Search - Choose Hyper Parameter](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/Grid%20Search%20-%20Choose%20Hyper%20Parameter.ipynb)
   
 
