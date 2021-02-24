@@ -31,5 +31,6 @@ Thank you.
 - [Linear Regression - Predict Crime Rate](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/Linear%20Regression%20-%20Predict%20Crime%20rate.ipynb)
 - [Multiple Linear Regression - Predict Diabetic](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/Multiple%20Linear%20Regression%20-%20Predict%20Diabetic.ipynb)
 - [Polynomial Regression - Predict Diabetic](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/Polynomial%20Regression%20-%20Predict%20Diabetic.ipynb)
+- [Logistic Regression - Wine Classification](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/Logistic%20Regression%20-%20Wine%20Classification.ipynb)
   
 
