@@ -33,5 +33,6 @@ Thank you.
 - [Polynomial Regression - Predict Diabetic](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/Polynomial%20Regression%20-%20Predict%20Diabetic.ipynb)
 - [Logistic Regression - Wine Classification](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/Logistic%20Regression%20-%20Wine%20Classification.ipynb)
 - [Data Processing - Normalisation](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/Data%20Processing%20-%20Normalisation.ipynb)
+- [Regularization L1 - Lasso](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/Regularization%20L1%20-%20Lasso%20.ipynb)
   
 
