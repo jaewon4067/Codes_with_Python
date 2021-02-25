@@ -1,10 +1,9 @@
 # MY CODING PROJECT USING PYTHON
 
-Hello, this is like my own diary where I write down my Python codes that I have studied and solved.
-Most of the codes here are written in Python.
-I have done simple calculation examples, examples using algorithms (such as Brute Force, Dynamic Programming and Divide and Conquer), problems dealing with data and problems using machine learning.
-If there is anything that I can improve my codes or there is a better way, please share with me.
-Thank you.
+Hi there. I'm Jaewon and this is my coding diary. It mostly consists of Python codes that I've been solving in my free time.
+There are simple calculation examples using algorithms (such as Brute Force, Dynamic Programming and Divide and Conquer). This coding diary also showcases problem solving in dealing with data and my journey overcoming challenges in using machine learning.
+Please feel free to reach out if you find that there is a better way to improve my codes.
+I'd love to learn and hear from you. 
 
 ## INDEX
 
