@@ -1,8 +1,11 @@
 # MY CODING PROJECT USING PYTHON
 
 Hi there. I'm Jaewon and this is my coding diary. It mostly consists of Python codes that I've been solving in my free time.
+
 There are simple calculation examples using algorithms (such as Brute Force, Dynamic Programming and Divide and Conquer). This coding diary also showcases problem solving in dealing with data and my journey overcoming challenges in using machine learning.
+
 Please feel free to reach out if you find that there is a better way to improve my codes.
+
 I'd love to learn and hear from you. 
 
 ## INDEX
