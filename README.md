@@ -49,6 +49,7 @@ I'd love to learn and hear from you.
 ### Object-Oriented Programming Examples
 - [Followings and Followers](https://github.com/jaewon4067/Codes_with_Python/blob/main/Object-oriented%20programming/Followings%20and%20Followers.py)
 - [OOP vs POP](https://github.com/jaewon4067/Codes_with_Python/blob/main/Object-oriented%20programming/OOP%20vs%20POP.py)
+- [Creating a simple blog](https://github.com/jaewon4067/Codes_with_Python/blob/main/Object-oriented%20programming/Creating%20a%20simple%20blog.py)
 
   
 
