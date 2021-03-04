@@ -30,6 +30,7 @@ I'd love to learn and hear from you.
 - [Orange Bottle](https://github.com/jaewon4067/Codes_with_Python/blob/main/Data%20Examples/Orange%20Bottle.ipynb)
 - [Netfilx](https://github.com/jaewon4067/Codes_with_Python/blob/main/Data%20Examples/Netfilx.ipynb)
 - [Predict Movie Ratings](https://github.com/jaewon4067/Codes_with_Python/blob/main/Data%20Examples/Predict%20Movie%20Ratings.ipynb)
+- [World Vaccination Progress](https://github.com/jaewon4067/Codes_with_Python/blob/main/Data%20Examples/World%20Vaccination%20Progress.ipynb)
 
 ### Machine Learning Examples
 - [Linear Regression - Predict Crime Rate](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/Linear%20Regression%20-%20Predict%20Crime%20rate.ipynb)
