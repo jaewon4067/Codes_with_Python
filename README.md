@@ -11,9 +11,9 @@ I'd love to learn and hear from you.
 ## INDEX
 
 ### General Problem Solving Examples
-- [Bulls and Cows](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Bulls%20and%20Cows)
-- [Voca Book Programme](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Vocabulary%20book%20programme)
-- [Lottery Simulation](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Lottery%20Simulation)
+- [Bulls and Cows](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Bulls%20and%20Cows.py)
+- [Voca Book Programme](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Vocabulary%20book%20programme.py)
+- [Lottery Simulation](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Lottery%20Simulation.py)
 
 ### Algorithms Examples
 - [Binary Search using Recursion](https://github.com/jaewon4067/Codes_with_Python/blob/main/Algorithms%20Examples/Binary%20Search%20using%20Recursion.py)
