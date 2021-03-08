@@ -23,6 +23,7 @@ I'd love to learn and hear from you.
 - [Maximum Profit](https://github.com/jaewon4067/Codes_with_Python/blob/main/Algorithms%20Examples/Maximum%20Profit.py)
 - [Find duplicate numbers](https://github.com/jaewon4067/Codes_with_Python/blob/main/Algorithms%20Examples/Find%20duplicate%20numbers.py)
 - [Sum of the Element](https://github.com/jaewon4067/Codes_with_Python/blob/main/Algorithms%20Examples/Sum%20of%20the%20Element.py)
+- [Blackjack (Brute Force)](https://github.com/jaewon4067/Codes_with_Python/blob/main/Algorithms%20Examples/Blackjack%20(Brute%20Force).py)
 
 ### Data Examples
 - [University lecture rooms](https://github.com/jaewon4067/Codes_with_Python/blob/main/Data%20Examples/University%20lecture%20rooms.ipynb)
