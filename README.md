@@ -47,6 +47,7 @@ I'd love to learn and hear from you.
 - [Random Forest - Classify type of Cancer](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/Random%20Forest%20-%20Classify%20type%20of%20Cancer.ipynb)
 - [Adaboost- Classify type of Cancer](https://github.com/jaewon4067/Codes_with_Python/blob/main/Adaboost-%20Classify%20type%20of%20Cancer.ipynb)
 - [Stroke Prediction Dataset](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/Stroke%20Prediction%20Dataset.ipynb)
+- [Mushroom Best Performance Model](https://github.com/jaewon4067/Codes_with_Python/blob/main/Machine%20Learning/Mushroom%20Best%20Performance%20Model.ipynb)
 
 
 ### Object-Oriented Programming Examples
