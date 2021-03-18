@@ -14,6 +14,9 @@ I'd love to learn and hear from you.
 - [Bulls and Cows](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Bulls%20and%20Cows.py)
 - [Voca Book Programme](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Vocabulary%20book%20programme.py)
 - [Lottery Simulation](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Lottery%20Simulation.py)
+- [Chebyshev's Theorem](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Chebyshev's%20Theorem.py)
+- [Goldbach](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Goldbach.py)
+- [Snail Question](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Snail%20Question.py)
 
 ### Algorithms Examples
 - [Binary Search using Recursion](https://github.com/jaewon4067/Codes_with_Python/blob/main/Algorithms%20Examples/Binary%20Search%20using%20Recursion.py)
