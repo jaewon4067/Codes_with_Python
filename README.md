@@ -17,6 +17,10 @@ I'd love to learn and hear from you.
 - [Chebyshev's Theorem](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Chebyshev's%20Theorem.py)
 - [Goldbach](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Goldbach.py)
 - [Snail Question](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Snail%20Question.py)
+- [Turret](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Turret.py)
+- [Dice](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/dice.py)
+- [EKO](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/EKO.py)
+
 
 ### Algorithms Examples
 - [Binary Search using Recursion](https://github.com/jaewon4067/Codes_with_Python/blob/main/Algorithms%20Examples/Binary%20Search%20using%20Recursion.py)
