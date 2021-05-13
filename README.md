@@ -20,6 +20,8 @@ I'd love to learn and hear from you.
 - [Turret](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Turret.py)
 - [Dice](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/dice.py)
 - [EKO](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/EKO.py)
+- [Snake](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Snake.py)
+- [KOLONE](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/KOLONE.py)
 
 
 ### Algorithms Examples
