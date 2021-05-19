@@ -22,6 +22,7 @@ I'd love to learn and hear from you.
 - [EKO](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/EKO.py)
 - [Snake](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/Snake.py)
 - [KOLONE](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/KOLONE.py)
+- [Word](https://github.com/jaewon4067/Codes_with_Python/blob/main/problem%20solving/word.py)
 
 
 ### Algorithms Examples
